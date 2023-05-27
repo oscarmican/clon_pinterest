@@ -1,0 +1,222 @@
+*{
+    font-size: 14px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif ; 
+
+}
+
+.FLEX1 {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    padding-top: 15px;
+    gap: 15px;
+}
+
+.logo{
+    padding-top: 10px;
+}
+
+.INICIO {
+    background-color: black;
+    color: white ; 
+    height: 50px;
+    width: 90px;
+    border-radius: 25px;
+}
+
+.HOY{
+    background-color: inherit;
+    border: none;
+
+}
+.CREAR{
+    background-color: inherit;
+    border: none;
+}
+
+
+
+#team1 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+    padding-top: 15px;
+
+}
+
+
+.galeria1 {
+
+    display: inline-block;
+    width: 236px;
+    height: auto;
+    border-radius: 50px;
+
+}
+
+
+.galeria1:hover {
+
+   filter: brightness(50%);
+
+}
+
+
+
+.galeria2 {
+
+    display: inline-block;
+    width: 236px;
+    height: auto;
+    border-radius: 50px;
+
+}
+
+.galeria2:hover {
+    filter: brightness(50%);
+}
+
+
+.galeria3 {
+
+    display: inline-block;
+    width: 236px;
+    height: auto;
+    border-radius: 50px;
+}
+
+.galeria3:hover{
+    filter: brightness(50%);
+}
+
+.galeria4 {
+
+    display: inline-block;
+    width: 236px;
+    height: auto;
+    border-radius: 50px;
+
+}
+
+.galeria4:hover{
+    filter: brightness(50%);
+
+}
+
+.galeria5:hover{
+    filter: brightness(50%);
+
+}
+
+.galeria5 {
+
+    display: inline-block;
+    width: 236px;
+    height: auto;
+    border-radius: 50px;
+}
+
+.galeria6:hover{
+    filter: brightness(50%);
+}
+
+.galeria6 {
+
+    display: inline-block;
+    width: 236px;
+    height: auto;
+    border-radius: 50px;
+}
+
+.galeria7:hover{
+    filter: brightness(50%);
+}
+
+.galeria7 {
+
+    display: inline-block;
+    width: 236px;
+    height: auto;
+    border-radius: 50px;
+}
+
+.galeria8:hover{
+    filter: brightness(50%);
+}
+.galeria8 {
+
+    display: inline-block;
+    width: 236px;
+    height: auto;
+    border-radius: 50px;
+}
+
+.galeria9:hover{
+    filter: brightness(50%);
+
+}
+
+.galeria9 {
+
+    display: inline-block;
+    width: 236px;
+    height: auto;
+    border-radius: 50px;
+}
+
+.galeria10:hover{
+    filter: brightness(50%);
+}
+
+.galeria10 {
+
+    display: inline-block;
+    width: 236px;
+    height: auto;
+    border-radius: 50px;
+}
+
+.galeria11:hover{
+    filter: brightness(50%);
+
+}
+
+.galeria11 {
+
+    display: inline-block;
+    width: 236px;
+    height: auto;
+    border-radius: 50px;
+}
+
+#buscador {
+    background-color:lightgrey;
+    display: flex;
+    border: 3px black;
+    border-radius: ;
+    padding: 5px 37px;
+    width: 100rem;
+}
+
+.lupa {
+    width: 1.5rem;
+    height: auto;
+    margin: 5px 1px 1px 1px;
+}
+
+.foto {
+    border-radius: 200px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: end;
+}
+
+.BUSCAR{
+    width: 100%;
+    border: none;
+    background-color: lightgray;
+}
+
+.BUSCAR:focus-visible{
+    outline: none;
+}
